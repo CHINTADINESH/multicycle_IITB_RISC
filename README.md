@@ -1,7 +1,7 @@
 # multicycle_IITB_RISC
 CPU design in verilog for custom RISC ISA.
-Please follow the following pdf for the problem statement and the underlying ISA.
-[GitHub](https://github.com/CHINTADINESH/multicycle_IITB_RISC/blob/master/datapath.jpg)
+Please follow the following [pdf](https://github.com/CHINTADINESH/multicycle_IITB_RISC/blob/master/multicycle%20design%20assignment.pdf) for the problem statement and the underlying ISA.
+[pdf](https://github.com/CHINTADINESH/multicycle_IITB_RISC/blob/master/multicycle%20design%20assignment.pdf)
 # Data path
 Our design is based on the data path shown below.
 ![alt text](https://github.com/CHINTADINESH/multicycle_IITB_RISC/blob/master/datapath.jpg)
